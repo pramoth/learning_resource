@@ -6,3 +6,4 @@
 * http://www.oracle.com/us/technologies/java/supplementary-142654.html
 * https://github.com/btroncone/learn-rxjs
 * http://container-solutions.com/understanding-volumes-docker/
+* http://exploringjs.com/es6/index.html#toc_ch_about-es6
